@@ -24,10 +24,10 @@ Hi there! I'm **Saima Ali**, a passionate Web Developer currently transitioning 
 
 ### ⚙️ DevOps (Learning & Practicing)
 - Git, GitHub, GitHub Actions
-- Docker, Docker Compose
+- Docker,Kubernetes 
 - Linux CLI, Bash scripting
 - Basic knowledge of AWS (EC2, S3), Nginx
-- CI/CD workflows, Version Control
+- CI/CD workflows, Jenkins 
 - Monitoring & Logging (beginner)
 
 ---
