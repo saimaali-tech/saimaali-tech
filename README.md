@@ -11,7 +11,7 @@ I’m Saima Ali a DevOps Engineer , passionate about automating development work
 
 ## 🛠️ Tech Stack
 
-### ⚙️ DevOps (Learning & Practicing)
+### ⚙️ DevOps 
 - CI/CD Pipelines (Jenkins, GitHub Actions)
 - Docker & Docker Compose
 - Kubernetes (Container Orchestration & Deployment)
